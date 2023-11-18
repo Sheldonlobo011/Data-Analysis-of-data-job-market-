@@ -8,7 +8,7 @@ This repository presents a comprehensive analysis of the data science job market
 ## Dataset Overview
 
 ### Data Source
-The dataset, sourced from [source], contains information about data science job postings, including details such as title, company, announcement, and description.
+The dataset, sourced from Kaggle, contains information about data science job postings, including details such as title, company, announcement, and description.
 
 ### Data Cleaning
 Prior to analysis, the dataset underwent a thorough cleaning process:
